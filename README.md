@@ -7,7 +7,7 @@
 
 ## 1. Introduction
 
-This document outlines the technical approach, design rationale, and implementation details of the ** Mock Exchange Client**, developed in Node.js. The client interfaces with the  TCP server to reliably retrieve order book data packets, ensuring completeness and integrity of the data stream before outputting to a structured JSON file.
+This document outlines the technical approach, design rationale, and implementation details of the **Mock Exchange Client**, developed in Node.js. The client interfaces with the  TCP server to reliably retrieve order book data packets, ensuring completeness and integrity of the data stream before outputting to a structured JSON file.
 
 ---
 
